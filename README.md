@@ -4,7 +4,7 @@ Welcome to my data science portfolio! This site hosts my journey through the Dat
 
 ---
 
-##Final Project Outline: Luxury Car Price Intelligence
+## Final Project Outline: Luxury Car Price Intelligence
 
 ### 1. Project Title
 **Luxury Car Price Intelligence System**
