@@ -13,7 +13,7 @@ Welcome to my data science portfolio! This site hosts my journey through the Dat
 The luxury car market faces high price volatility due to rarity and bespoke features. This project aims to build a predictive model that helps dealerships determine fair market value, reducing time to sell and pricing errors.
 
 ### 3. Planned Datasets
-I will be utilizing specialized datasets focusing on luxury and exotic brands (e.g., Porsche, Ferrari, and High-end European models) sourced from Kaggle and automotive APIs.
+I will be utilizing specialized datasets focusing on luxury and exotic brands sourced from Kaggle and automotive APIs.
 
 ### 4. Tools & Methods
 * **Language:** Python
