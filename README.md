@@ -1,26 +1,26 @@
-# Portfolio: Abed Alrhman 🚀
+Abed Alrhman 
 
 Welcome to my data science portfolio! This site hosts my journey through the Data Science course.
 
 ---
 
-## 🏎️ Final Project Outline: Luxury Car Price Intelligence
+##Final Project Outline: Luxury Car Price Intelligence
 
 ### 1. Project Title
-[cite_start]**Luxury Car Price Intelligence System** [cite: 8]
+**Luxury Car Price Intelligence System**
 
 ### 2. Problem Description
-The luxury car market faces high price volatility due to rarity and bespoke features. [cite_start]This project aims to build a predictive model that helps dealerships determine fair market value, reducing "time-to-sell" and pricing errors. [cite: 8]
+The luxury car market faces high price volatility due to rarity and bespoke features. This project aims to build a predictive model that helps dealerships determine fair market value, reducing time to sell and pricing errors.
 
 ### 3. Planned Datasets
-[cite_start]I will be utilizing specialized datasets focusing on luxury and exotic brands (e.g., Porsche, Ferrari, and High-end European models) sourced from Kaggle and automotive APIs. [cite: 8]
+I will be utilizing specialized datasets focusing on luxury and exotic brands (e.g., Porsche, Ferrari, and High-end European models) sourced from Kaggle and automotive APIs.
 
 ### 4. Tools & Methods
 * **Language:** Python
-* **Libraries:** Pandas & NumPy (Data Processing), Scikit-learn (Regression Modeling)
-* [cite_start]**Visualization:** Matplotlib / Seaborn [cite: 8]
+* **Libraries:** Pandas & NumPy, Scikit-learn 
+* **Visualization:** Matplotlib / Seaborn 
 
 ### 5. Participation
-[cite_start]**Individual Project** (Abed Alrhman) [cite: 8, 15]
+**Individual Project** (Abed Alrhman)
 
 ---
